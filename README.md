@@ -1,0 +1,7 @@
+# [1、海龟绘图](http://born2try.cn/2019/11/16/20191116-python/ "海龟绘图")
+# [2、print()](http://born2try.cn/2019/11/16/20191116-python-1/ "print()")
+# [3、变量](http://born2try.cn/2019/12/06/20191123-python-1/ "变量")
+# [4、如果](http://born2try.cn/2019/12/06/20191123-python-2/ "如果")
+# [5、今夕何夕](http://born2try.cn/2019/12/11/20191207-1/ "今夕何夕")
+# [6、节日快乐](http://born2try.cn/2019/12/11/20191207-2/ "节日快乐")
+[![](http://python.born2try.cn/friends/IMG_3005.JPG)](http://python.born2try.cn/friends/IMG_3005.JPG)
