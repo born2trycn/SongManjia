@@ -4,4 +4,4 @@
 # [4、如果](http://born2try.cn/2019/12/06/20191123-python-2/ "如果")
 # [5、今夕何夕](http://born2try.cn/2019/12/11/20191207-1/ "今夕何夕")
 # [6、节日快乐](http://born2try.cn/2019/12/11/20191207-2/ "节日快乐")
-![ ](http://python.born2try.cn/friends/IMG_3005.JPG)
+![ ](https://github.com/born2trycn/ZhaoMingyu/blob/master/IMG_3005.JPG?raw=true)
